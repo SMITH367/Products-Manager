@@ -1,6 +1,6 @@
 # Tkinterlite (Tkinter & Sqlite)
 
-Developend on Ubuntu Release 9 (stretch) 64-bit.
+Easy Product Manager whit db basic.
 
 Spring 2020
 
